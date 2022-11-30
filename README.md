@@ -1,5 +1,6 @@
 # Note-Taker
-https://github.com/zestnachow/Note-Taker
+[GitHub Repo](https://github.com/zestnachow/Note-Taker)\
+[Heroku Live Link](https://gentle-river-83157.herokuapp.com/)
 # Description
 This application allows users to create, save, view, and delete notes/reminders.
 # Table of Contents
